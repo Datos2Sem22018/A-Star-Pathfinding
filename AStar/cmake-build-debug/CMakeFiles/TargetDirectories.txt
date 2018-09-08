@@ -1,0 +1,3 @@
+/home/zuckerberg/CLionProjects/AStar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zuckerberg/CLionProjects/AStar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zuckerberg/CLionProjects/AStar/cmake-build-debug/CMakeFiles/AStar.dir

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zuckerberg/CLionProjects/AStar/Location.cpp
+Location.h
+/home/zuckerberg/CLionProjects/AStar/Location.h
+
+/home/zuckerberg/CLionProjects/AStar/Location.h
+
+/home/zuckerberg/CLionProjects/AStar/Node.cpp
+Node.h
+/home/zuckerberg/CLionProjects/AStar/Node.h
+
+/home/zuckerberg/CLionProjects/AStar/Node.h
+Location.h
+/home/zuckerberg/CLionProjects/AStar/Location.h
+cstdlib
+-
+
+/home/zuckerberg/CLionProjects/AStar/main.cpp
+iostream
+-
+iomanip
+-
+ctime
+-
+Location.h
+/home/zuckerberg/CLionProjects/AStar/Location.h
+Node.h
+/home/zuckerberg/CLionProjects/AStar/Node.h
+queue
+-
+
